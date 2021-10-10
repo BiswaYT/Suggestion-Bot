@@ -1,7 +1,7 @@
 {
-  "name": "basicbot",
+  "name": "suggestionbot",
   "version": "2.4.1",
-  "description": "A Discord Bot made by: Tomato#6966",
+  "description": "A Discord Bot made by: TSGBiswa#4308",
   "main": "index.js",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
@@ -19,6 +19,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Tomato#6966",
+  "author": "TSGBiswa#4308",
   "license": "ISC"
 }

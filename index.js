@@ -109,7 +109,7 @@ client.on("message", async message => {
         /* /////////////////////////////////////////
         HERE AN EXAMPLE:
 
-            User: Tomato#6966   types command:
+            User: TSGBiswa#4308   types command:
 
                 !say Hello World, HEY!
 

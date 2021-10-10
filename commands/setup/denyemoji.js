@@ -28,7 +28,7 @@ module.exports = {
             .setTitle("<:suggest:778599541812363276> Deny Emoji for Suggestions!")
             .setColor("#ff712e")
             .setDescription(`Deny emoji added: ${emoji}`)
-            .setFooter(client.user.username + " Bot by: Tomato#6966", config.AVATARURL)  
+            .setFooter(client.user.username + " Bot by: TSGBiswa#4308", config.AVATARURL)  
         )
         client.settings.set(message.guild.id, emoji, `denyemoji`);
 return; 

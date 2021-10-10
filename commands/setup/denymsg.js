@@ -26,7 +26,7 @@ module.exports = {
             .setTitle("<:suggest:778599541812363276> denymsg for Suggestions!")
             .setColor("#ff712e")
             .setDescription(`Deny msg changed to:  ${txt}`)
-            .setFooter(client.user.username + " Bot by: Tomato#6966", config.AVATARURL)  
+            .setFooter(client.user.username + " Bot by: TSGBiswa#4308", config.AVATARURL)  
         )
         client.settings.set(message.guild.id, txt, `denymsg`);
 return; 

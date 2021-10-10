@@ -27,14 +27,8 @@ module.exports = {
             .setColor("#ff712e")
             .setThumbnail(client.user.displayAvatarURL())
             .setTitle("HELP MENU")
-        .addField("***Tutorial:***",`
-        >>> [\`Click here\`](https://youtu.be/KQXUEJgV5s0)
-        `)
         .addField("***BOT BY:***",`
-        >>> <@442355791412854784> \`Tomato#6966\` [\`Website\`](https://avatix.eu/tomato/index.html)
-        `)
-        .addField("***SUPPORT:***",`
-        >>> [\`Server\`](https://discord.gg/fS6qBSm) | [\`Musicium - Website\`](https://musicium.eu) | [\`Invite\`](https://su.musicium.eu)
+        >>> <@442355791412854784> \`TSGBiswa#4308\`
         `)
             .setFooter(`To see command descriptions and inforamtion, type: ${config.prefix}help [CMD NAME]`, client.user.displayAvatarURL())
             const commands = (category) => { //finding all commands and listing them into a string with filter and map

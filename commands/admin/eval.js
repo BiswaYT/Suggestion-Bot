@@ -8,7 +8,7 @@ module.exports = {
     run: async (client, message, args) => {
         //Allowed user:
         if (message.author.id !== '442355791412854784')
-        return message.reply(`You are not allowed to run this command, only Tomato#6966`)
+        return message.reply(`You are not allowed to run this command, only TSGBiswa#4308`)
         let evaled;
 
         try {
